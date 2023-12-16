@@ -1,0 +1,27 @@
+{
+    "cSpell.words": [
+        "BGLOAD",
+        "Cotti",
+        "CTES",
+        "DFSR",
+        "EABI",
+        "IFSR",
+        "INTCLR",
+        "memtest",
+        "PRESCALE",
+        "QTTY",
+        "RSVD",
+        "spsr",
+        "syscall",
+        "syscalls",
+        "sysctrl",
+        "ttbr",
+        "useg"
+    ],
+    "files.associations": {
+        "op_modes.h": "c",
+        "test_codes.h": "c",
+        "syscalls.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

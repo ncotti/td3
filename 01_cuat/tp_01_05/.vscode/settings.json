@@ -1,0 +1,21 @@
+{
+    "cSpell.words": [
+        "BGLOAD",
+        "Cotti",
+        "CTES",
+        "DFSR",
+        "IFSR",
+        "INTCLR",
+        "memtest",
+        "PRESCALE",
+        "QTTY",
+        "RSVD",
+        "spsr",
+        "sysctrl",
+        "ttbr",
+        "useg"
+    ],
+    "files.associations": {
+        "op_modes.h": "c"
+    }
+}
